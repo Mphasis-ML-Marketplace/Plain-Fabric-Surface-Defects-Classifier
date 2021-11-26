@@ -10,5 +10,5 @@ Surface defects in fabric pose aesthetic and durability problems. Classifying de
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](insert link)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-thhtpxex6s6ok)
 
